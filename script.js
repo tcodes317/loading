@@ -1,0 +1,1 @@
+let bg=document.createElement("div");document.body.appendChild(bg);let lo=document.createElement("div");bg.style="width: 100%; height: 100vh; background-color: #fff";
